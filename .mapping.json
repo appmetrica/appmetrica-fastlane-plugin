@@ -1,0 +1,22 @@
+{
+  ".circleci/config.yml":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.circleci/config.yml",
+  ".gitignore":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.gitignore",
+  ".rspec":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.rspec",
+  ".rubocop.yml":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.rubocop.yml",
+  ".ruby-gemset":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.ruby-gemset",
+  ".ruby-version":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.ruby-version",
+  ".travis.yml":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.travis.yml",
+  "CONTRIBUTING.md":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/CONTRIBUTING.md",
+  "Gemfile":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/Gemfile",
+  "LICENSE":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/LICENSE",
+  "README.md":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/README.md",
+  "Rakefile":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/Rakefile",
+  "fastlane-plugin-appmetrica.gemspec":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/fastlane-plugin-appmetrica.gemspec",
+  "fastlane/Fastfile":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/fastlane/Fastfile",
+  "fastlane/Pluginfile":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/fastlane/Pluginfile",
+  "lib/fastlane/plugin/appmetrica.rb":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/lib/fastlane/plugin/appmetrica.rb",
+  "lib/fastlane/plugin/appmetrica/actions/upload_symbols_to_appmetrica.rb":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/lib/fastlane/plugin/appmetrica/actions/upload_symbols_to_appmetrica.rb",
+  "lib/fastlane/plugin/appmetrica/version.rb":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/lib/fastlane/plugin/appmetrica/version.rb",
+  "spec/spec_helper.rb":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/spec/spec_helper.rb",
+  "spec/upload_symbols_to_appmetrica_action_spec.rb":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/spec/upload_symbols_to_appmetrica_action_spec.rb"
+}

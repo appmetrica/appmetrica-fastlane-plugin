@@ -1,3 +1,4 @@
 {
-  "project":"appmetrica-fastlane-plugin"
+  "project":"appmetrica-fastlane-plugin",
+  "repository":"arcadia"
 }

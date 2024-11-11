@@ -8,6 +8,7 @@
   ".travis.yml":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.travis.yml",
   "CONTRIBUTING.md":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/CONTRIBUTING.md",
   "Gemfile":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/Gemfile",
+  "Gemfile.lock":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/Gemfile.lock",
   "LICENSE":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/LICENSE",
   "README.md":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/README.md",
   "Rakefile":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/Rakefile",

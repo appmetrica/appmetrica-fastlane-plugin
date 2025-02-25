@@ -1,4 +1,5 @@
 {
+  ".":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica",
   ".circleci/config.yml":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.circleci/config.yml",
   ".gitignore":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.gitignore",
   ".rspec":"mobile/metrika/ios/fastlane-plugin/fastlane-plugin-appmetrica/.rspec",

@@ -15,6 +15,11 @@ fastlane add_plugin appmetrica
 Upload dSYM symbolication files to AppMetrica.
 Documentation could be found at [AppMetrica official site](https://appmetrica.io/docs/en/data-collection/upload-dsym)
 
+### Limitations
+
+- HTTPS uploads use system/platform trust first, then an additional certificate embedded in the helper. Certificate Transparency checks are not performed on the additional trust path; the system trust path is unchanged.
+- Additional certificate support requires helper `1.0.1` or newer. Updating the Fastlane plugin does not update the helper binary — upgrade AppMetricaCrashes / the helper separately.
+
 ## Example
 
 Check out the [example `Fastfile`](fastlane/Fastfile) to see how to use this plugin. Try it by cloning the repo, running `fastlane install_plugins` and `bundle exec fastlane test`.
